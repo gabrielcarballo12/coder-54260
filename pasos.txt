@@ -8,3 +8,4 @@ iniciar git
 esto permite agregar las modificaciones que hayamos hecho
 4. git commit -m 
 Un mensaje cualquiera
+5. 
